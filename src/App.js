@@ -1,7 +1,7 @@
 import './App.scss';
 import {Routes} from 'react-router-dom'
 import Layout from './components/Layouts';
-import { browserHistory, Router, Route } from 'react-router';
+import {  Route } from 'react-router';
 import Home from './components/Home';
 import About from './components/About';
 import Contact from './components/Contact';
